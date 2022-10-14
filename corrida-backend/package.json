@@ -1,0 +1,15 @@
+{
+  "name": "corrida-backend",
+  "version": "1.0.0",
+  "description": "Backend para a corrida",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clauderlan Batista",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5"
+  }
+}
